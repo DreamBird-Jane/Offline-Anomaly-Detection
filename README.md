@@ -8,4 +8,4 @@ Toolkit for offline AD
 
 
 ## 2. High Dimensional Anomaly Detection
-### 2.1. Subspace-based Anomaly Detection
+### 2.1. [Subspace-based Anomaly Detection](https://github.com/DreamBird-Jane/Offline-Anomaly-Detection/tree/main/High%20Dimentional%20Anomaly%20Detection/Subspace-based%20Anomaly%20Detection)
